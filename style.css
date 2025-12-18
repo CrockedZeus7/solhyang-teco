@@ -1,0 +1,3 @@
+:root { color-scheme: dark; }
+html { scroll-behavior: smooth; }
+.glass { backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
